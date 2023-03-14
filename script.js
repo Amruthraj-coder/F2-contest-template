@@ -8,7 +8,7 @@ function calculate(num1, num2, operator) {
 // ignore the function below
 function performOperations() {
   // Get the values of the two input fields and the operator.
-  //hvgjhvjyvujvkjhvjyvyvyvjyvj
+  //hvgjhvjyvujvkjhvjyvyvyvjyvjdratawgr
   var num1 = document.getElementById("num1").value;
   var num2 = document.getElementById("num2").value;
   var result = document.getElementById("result");
